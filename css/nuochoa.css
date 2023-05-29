@@ -11,24 +11,6 @@
 .navbar-toggler{
     background-color: black;
 }
-.li_menu{
-    list-style: none;
-}
-.li_menu a{
-    text-decoration: none;
-}
-.spbc{
-    text-align: center;
-    margin: 20px 0px;
-    
-}
-.spbc h3{
-    color: black;
-    padding: 10px 20px;
-    text-transform: uppercase;
-    border: solid;
-    display: inline-block;
-}
 #content .sp{
     width: 350px;
     height: 500px;
@@ -41,15 +23,4 @@
 #content .sp img{
     width: 300px;
     height: 350px;
-}
-footer{
-    background-color:;
-    text-align:center;
-    padding:25px;
-    font-size:18px;
-}
-.footer{
-    background-color:;
-    width: 100%;
-    height: 500px;
 }
