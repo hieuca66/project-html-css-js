@@ -1,5 +1,5 @@
-const category=[
-    { cat_id:'perfume', cat_name:'Nước hoa' },
+const category=[  
+     {cat_name:'Nước hoa' },
 
 ];
 
@@ -33,7 +33,7 @@ const product=[
     price:24220002, img:'https://www.thegioinuochoa.com.vn/image/get?file=item_product%2Fthumb1500x500%2F202305%2F230503_195816_939055.png',cat_id:'perfume9' 
     },
     { id:10, name:'D&G Dolce', 
-    price:24220002, img:'https://www.thegioinuochoa.com.vn/image/get?file=item_product%2Fthumb1500x500%2F202305%2F230503_195144_026726.pngg',cat_id:'perfume10' 
+    price:24220002, img:'https://www.thegioinuochoa.com.vn/image/get?file=item_product%2Fthumb1500x500%2F202305%2F230503_195144_026726.png',cat_id:'perfume10' 
     },
     
 

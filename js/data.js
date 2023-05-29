@@ -4,18 +4,18 @@ const category=[
     { cat_id:'necklace', cat_name:'Dây chuyền' },
 ];
 const product=[
-    { id:1, name:'TISSOT LE LOCLE POWERMATIC 80 T006.407.22.033.00', 
-    price:22220002, img:'https://cdn3.dhht.vn/wp-content/uploads/2018/05/95_T006.407.22.033.00-1-699x699.jpg',cat_id:'watch1' 
+    { id:1, name:'Orient FGW0100AW0', 
+    price:22220002, img:'https://cdn3.dhht.vn/wp-content/uploads/2017/08/FGW0100AW0-399x399.jpg',cat_id:'watch1' 
     },
-    { id:2, name:'CASIO WORLD TIME AE-1200WHD-1AVDF', 
-    price:24220002, img:'https://cdn3.dhht.vn/wp-content/uploads/2017/07/AE-1200WHD-1AVDF-699x699.jpg',cat_id:'watch2' 
+    { id:2, name:'Casio MTP-1370D-7A2VDF', 
+    price:24220002, img:'https://cdn3.dhht.vn/wp-content/uploads/2017/08/MTP-1370D-7A2VDF-399x399.jpg',cat_id:'watch2' 
     },
-    { id:3, name:'CITIZEN TSUYOSA NJ0154-80H', 
-    price:3200000, img:'https://cdn3.dhht.vn/wp-content/uploads/2021/12/NJ0154-80H-699x699.jpg',
+    { id:3, name:'Orient Open Heart RA-AR0001S10B', 
+    price:3200000, img:'https://cdn3.dhht.vn/wp-content/uploads/2019/04/36_RA-AR0001S10B-399x399.jpg',
     cat_id:'watch3' 
     },
-    { id:4, name:'ORIENT OPEN HEART RA-AR0001S10B', 
-    price:22220002, img:'https://cdn3.dhht.vn/wp-content/uploads/2019/04/36_RA-AR0001S10B-699x699.jpg',cat_id:'watch4',
+    { id:4, name:'Casio EFV-550L-1AVUDF', 
+    price:22220002, img:'https://cdn3.dhht.vn/wp-content/uploads/2018/06/68_EFV-550L-1AVUDF-1-399x399.jpg',cat_id:'watch4',
     
     },
     { id:5, name:'Dolce&Gabbana K EDT', 

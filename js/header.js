@@ -13,7 +13,7 @@ document.getElementById("header").innerHTML =
 '<li class="nav-item"><a class="nav-link " href="./email.html"> Contact </a></li>'+
 
 '<li class="nav-item ">'+
-   '<a class="nav-link  " href="../html/nuochoa.html"> Nước Hoa</a>'+
+   '<a class="nav-link  " href="./nuochoa.html"> Nước Hoa</a>'+
   //  '<ul class="dropdown-menu fade-up nav-links">'+
   //    '<li><a class="dropdown-item" href="#"> Submenu item 1</a></li>'+
   //    '<li><a class="dropdown-item" href="#"> Submenu item 2 </a></li>'+
@@ -21,7 +21,7 @@ document.getElementById("header").innerHTML =
   //  '</ul>'+
 '</li>'+
 '<li class="nav-item dropdown">'+
-'<a class="nav-link " href="../html/dongho.html" > Đồng Hồ </a>'+
+'<a class="nav-link " href="./dongho.html" > Đồng Hồ </a>'+
 // '<ul class="dropdown-menu fade-up nav-links">'+
 //   '<li><a class="dropdown-item" href="#"> Submenu item 1</a></li>'+
 //   '<li><a class="dropdown-item" href="#"> Submenu item 2 </a></li>'+
@@ -29,7 +29,7 @@ document.getElementById("header").innerHTML =
 // '</ul>'+
 '</li>'+
 '<li class="nav-item dropdown">'+
-'<a class="nav-link  href="../html/daychuyen.html" >Dây Chuyền </a>'+
+'<a class="nav-link  "href="./daychuyen.html" >Dây Chuyền </a>'+
 // '<ul class="dropdown-menu fade-up nav-links">'+
 //   '<li><a class="dropdown-item" href="#"> Submenu item 1</a></li>'+
 //   '<li><a class="dropdown-item" href="#"> Submenu item 2 </a></li>'+
