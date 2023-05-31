@@ -9,7 +9,10 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .navbar-toggler{
-    background-color: black;
+    background-color: white;
+}
+.navbar-toggler-icon{
+    background-color: white;
 }
 .li_menu{
     list-style: none;
