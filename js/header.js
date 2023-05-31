@@ -10,7 +10,7 @@ document.getElementById("header").innerHTML =
 '<ul class="navbar-nav ">'+
 '<li class="nav-item active"> <a class="nav-link " href="./index.html">Home </a> </li>'+
 '<li class="nav-item"><a class="nav-link " href="#"> About </a></li>'+
-'<li class="nav-item"><a class="nav-link " href="./email.html"> Contact </a></li>'+
+'<li class="nav-item"><a class="nav-link " href="#"> Contact </a></li>'+
 
 '<li class="nav-item ">'+
    '<a class="nav-link  " href="./nuochoa.html"> Nước Hoa</a>'+
@@ -29,7 +29,7 @@ document.getElementById("header").innerHTML =
 // '</ul>'+
 '</li>'+
 '<li class="nav-item dropdown">'+
-'<a class="nav-link  "href="./daychuyen.html" >Dây Chuyền </a>'+
+'<a class="nav-link  " href="./daychuyen.html"> Day Chuyen</a>'+
 // '<ul class="dropdown-menu fade-up nav-links">'+
 //   '<li><a class="dropdown-item" href="#"> Submenu item 1</a></li>'+
 //   '<li><a class="dropdown-item" href="#"> Submenu item 2 </a></li>'+
