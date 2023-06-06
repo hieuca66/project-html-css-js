@@ -9,7 +9,10 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .navbar-toggler{
-    background-color: black;
+    background-color: 
+}
+.navbar-toggler-icon{
+    background-color: url(../img/logo/ham.png);
 }
 #content .sp{
     width: 350px;
