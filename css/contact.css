@@ -1,0 +1,19 @@
+.navbar{
+    background-color: brown;
+}
+
+
+.navbar-nav .nav-item .nav-link{
+    color: white;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar-toggler{
+    background-color: black;
+}
+.li_menu{
+    list-style: none;
+}
+.li_menu a{
+    text-decoration: none;
+}

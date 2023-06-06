@@ -1,18 +1,30 @@
 function loadData(){
-    var DC = []
+    var best = []
     for (let i = 0; i < data.length; i++  ){
-        if ( data[i].DC == true){
-            DC.push( data[i])
+        if ( data[i].best == true){
+            best.push( data[i])
 
         }
     }
-    load(DC,'content')
+    load(best,'content')
+    let menu = document.getElementsByClassName('sp')
+    console.log(menu)
+    for(let i = 0 ; i < menu.length ; i++){
+        menu[i].addEventListener('click',function(){
+            localStorage.setItem('tenSanpham',data[i].name)
+            localStorage.setItem('giatien',data[i] .price)
+            localStorage.setItem('hinhanh',data[i].img)
+            window.open('./chitiet.html')
+        })
+    }
+
+    
+
 }
 function load(list,id){
     var load = ''
-    for(let i = 0 ; i < list.length ; i++){
-        load += `<div class="sp" data-id ="${list[i].id}}">
-        
+    for(let i = 0 ; i < data.length ; i++){
+        load += `<div class="sp" data-id="${list[i].id}}">
             <h1>${list[i].name}</h1>
             
            <img src="./img/sanpham/${list[i].img}" alt="">
